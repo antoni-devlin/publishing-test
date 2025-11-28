@@ -15,7 +15,6 @@ If you live in Northern Ireland, go to [Universal Credit in Northern Ireland](ht
 Universal Credit is replacing the following benefits:
 
 + Housing Benefit
-+ Income Support
 + income-based Jobseeker’s Allowance (JSA)
 + income-related Employment and Support Allowance (ESA)
 
