@@ -4,6 +4,8 @@ The three folders above are three Mainstream browse categories picked at random.
 
 ## Demo content
 
+This repo isn't meant to be a technical demonstration, but an exploration of what it would be like for Content Designers if we had the tools Github offers at our disposal. Would it be helpful? Would it be a car crash?
+
 This is what's called a Github repository (commonly abbreviated to repo). Think of it like a top-level folder. Repos can contain most types of files. In this proof-of-concept, imagine this contains every piece of Mainstream Content that is currently live. Click into each folder above (pulled from Mainstream browse at random) to see the demo guide it contains.
 
 ### Working on content and sending it for review/2i
@@ -42,7 +44,7 @@ When changes are ready, a Pull Request can be assigned to/claimed by a 2ier. Whe
 
 ### Hard to implement
 
-This repo is a proof of concept, and is in no way actually connected to the GOV.UK website. Doing what this repo suggests would take a substantial rewrite, would have to be done from the ground up, and would likely take a long time.
+This repo is a proof of concept, and is in no way actually connected to the GOV.UK website. Doing what this repo suggests would take a substantial rewrite of the GOV.UK publishing system, would have to be done from the ground up, and would likely take a long time.
 
 Github doesn't and can't speak govspeak, which makes true previewing difficult. However, we already have a mechanism for deploying previews to Heroku for smart answers, so there is a minor precedent.
 
