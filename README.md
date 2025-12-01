@@ -1,4 +1,4 @@
-# What if we used Github to publish contnet?
+# What if we used Github to publish content?
 
 The three folders above are three Mainstream browse categories picked at random. Each contains a piece of content currently tagged to that category, also picked at random. All content is written in markdown by default (just like this ReadMe is), but Github doesn't render Govspeak.
 
